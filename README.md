@@ -5,7 +5,7 @@
 
 I'm an entry-level developer exploring data science, Artificial Intelligence, and full-stack development.
 
-<img align="right" width="200" height="290" src="https://i.gifer.com/origin/ed/ed2c8e819e41a601637f492c80317ad0_w200.gif">    
+<img align="right" width="200" height="290" src="https://i.gifer.com/origin/ed/ed2c8e819e41a601637f492c80317ad0_w200.gif" />
                                                 
 - 🌱 I’m currently learning Data Science and AI  
 - 💻 Exploring MERN stack as an entry-level fresher  
