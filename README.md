@@ -1,7 +1,11 @@
 <p align="center"><a href="#"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="./assets/name.png" /></a></p>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=revanth-kumar-ai-01&label=Profile%20views&color=0e75b6&style=flat" alt="revanthkumar11" /> </p>
+
 I'm an entry-level developer exploring data science, Artificial Intelligence, and full-stack development.
+
+<img align="right" width="200" height="290" src="https://i.gifer.com/origin/ed/ed2c8e819e41a601637f492c80317ad0_w200.gif">    
                                                 
 - 🌱 I’m currently learning Data Science and AI  
 - 💻 Exploring MERN stack as an entry-level fresher  
@@ -20,5 +24,7 @@ I'm an entry-level developer exploring data science, Artificial Intelligence, an
 <img height="30" src="https://img.shields.io/badge/HP-Gaming_Laptop-00A1DE?style=for-the-badge&logo=hp&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050_6GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-i5_12th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 
 
+![My GitHub Contributions](https://github-readme-stats.vercel.app/api?username=revanth-kumar-01-ai&theme=dark&show_icons=true&hide=issues,contribs)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=revanth-kumar-01-ai&bg_color=222222&color=ffd700&line=00ffff&point=ff6347&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
