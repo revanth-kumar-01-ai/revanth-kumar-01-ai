@@ -25,7 +25,7 @@ I'm an entry-level developer exploring data science, Artificial Intelligence, an
 
 
 ![Revanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=revanth-kumar-01-ai&show_icons=true&theme=transparent) <br/>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=revanth-kumar-01-ai&bg_color=222222&color=ffd700&line=00ffff&point=ff6347&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=revanth-kumar-01-ai&bg_color=182628&color=04f6a1&line=3b945e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
