@@ -24,7 +24,9 @@ I'm an entry-level developer exploring data science, Artificial Intelligence, an
 <img height="30" src="https://img.shields.io/badge/HP-Gaming_Laptop-00A1DE?style=for-the-badge&logo=hp&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050_6GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-i5_12th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 
 
-![My GitHub Contributions](https://github-readme-stats.vercel.app/api?username=revanth-kumar-01-ai&theme=dark&show_icons=true&hide=issues,contribs)
+![Revanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=revanth-kumar-01-ai&show_icons=true&theme=transparent) <br/>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=revanth-kumar-01-ai&bg_color=222222&color=ffd700&line=00ffff&point=ff6347&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
