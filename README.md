@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="./assets/name.png" /></a></p>
+<p align="center"><a href="#"><img width="100%" alt="Hello, I'm Revanth kumar. I do open source!" src="./assets/Green Simple Manager LinkedIn Banner.png" /></a></p>
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revanth-kumar-ai-01&label=Profile%20views&color=0e75b6&style=flat" alt="revanthkumar11" /> </p>
